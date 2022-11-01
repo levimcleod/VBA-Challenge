@@ -14,3 +14,6 @@ This script is configured to run across all worksheets in the workbook.
 
 ## Installation
 Excel file must be macro-enabled with developer option (in Excel ribbon tools) checked to run VBA script. 
+
+## References
+Dataset created by Trilogy Education Services, a 2U, Inc. brand.
