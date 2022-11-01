@@ -1,5 +1,5 @@
 # VBA-Challenge
-**Module 2 assignment**
+**Images:**
 
 ![2018_Data](2018.png)
 ![2019_Data](2019.png)
