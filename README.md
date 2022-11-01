@@ -12,5 +12,5 @@ Additionally, the script ouputs the ticker with the greatest percentage of incre
 
 This script is configured to run across all worksheets in the workbook. 
 
-Installation
+## Installation
 Excel file must be macro-enabled with developer option (in Excel ribbon tools) checked to run VBA script. 
